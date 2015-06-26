@@ -1,0 +1,16 @@
+{
+	"name": "Speez",
+	"description": "Speez is a nice game",
+	"version": "0.0.0",
+	"homepage": "",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+  		"jquery": "1.10.2",
+  		"underscore": "*",
+  		"socket.io": "*",
+  		"greensock": "*",
+  		"signals": "*",
+  		"phaser": "*"
+	}
+}

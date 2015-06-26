@@ -1,0 +1,11 @@
+doctype html
+html(lang="en" ng-app="speezApp")
+	head
+		title #{title}
+		meta(name='viewport' content="target-densitydpi=medium-dpi, user-scalable=no, initial-scale=0.5, minimum-scale=0.5, width=device-width")
+		link(rel='stylesheet', href='/style/style.css')
+		link(href="/style/fonts.css" rel="stylesheet")
+		link(href="/style/font-awesome.min.css" rel="stylesheet")
+		block scripts
+	body(onload='init()')
+		block content

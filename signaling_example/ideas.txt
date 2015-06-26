@@ -1,0 +1,90 @@
+ideas.txt
+
+1) Player
+
+2) Mods
+
+	2.1) Rounds - Classic:
+
+		2.1.1) A Round with only one Board
+
+		2.1.2) A Round with two colored Boards
+
+		2.1.3) A Round with less time
+
+		2.1.4) A Round with colored Cards
+
+		2.1.5) 
+
+	2.2) Cooperation:
+
+		In a race against time,
+		Each player strives to cooperate,
+
+		2.2.1) The goal is to reach a certain card count placed on boards
+
+		2.2.2) A Block limit counts down with every Block. On 0 the game fails
+
+		2.2.3) A Timer will decide the game has ended
+
+		2.2.4) On 'Time Up' or 'No Moves', the Round will end
+
+		2.2.5) Scoring less than the required amount on end will cause failure of the team
+
+	2.3) Random:
+
+		2.3.1) Round Parameters
+
+		2.3.2) Randomize Rounds option
+
+3) Other
+
+	3.1) Set of cards
+
+		3.1.1) Each player received a predetermined set of cards
+
+		3.1.2) The difficulty of the game increases as the set of cards changes
+
+		3.1.3) Difficulty is set when different representation of cards or different combinations is required
+	
+	3.2) Joining mid game
+
+		3.2.1) Making the game into Rounds, a mid-game join is required
+
+		3.2.2) A mid-game join results in waiting for round's end
+
+	3.3) Plus and Minus sign
+
+		3.3.1) Near the 'Card Board' or the entire game will be a Plus or Minus sign - Indicating that it only goes up or down
+
+	3.4) Color Indication
+
+		3.4.1) The 'Card Board' will correspond to their color instead of position
+
+	3.5) Movement
+
+		3.5.1) The 'Card Boards' move around in patterns
+
+		3.5.2) Whenever a card is placed in a Board, it stops moving for a while (to generate stability in view)
+
+	3.6) Relative 'Card Board' time
+
+		3.6.1) Each 'Card Board' will have its own time, when the time ends, the Board is destroyed
+
+	3.7) Numeric Indicator
+
+		3.7.1) Each 'Card Board' or the entire game will have a numeric indicator that will determine the incriment count
+
+			E.X: An increment of 2 will cause a Board with the number 5 can be answered by 7 or 3
+
+	3.8) Card Color Indicator
+
+		3.8.1) A Card with color can only be placed in a Board with the same color or on the same number
+
+	3.9) Time Attack Round
+
+		3.9.1) Time is dwindling down for time attack rounds
+
+
+4) Users
+
